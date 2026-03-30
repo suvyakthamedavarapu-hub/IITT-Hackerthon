@@ -41,7 +41,7 @@ This project focuses on extracting and identifying features such as buildings, r
 
 ## ▶️ How to Run
 
-python mainapp.py
+python mainapp.py  
 python test_model.py
 
 ---
